@@ -6,6 +6,7 @@ function App() {
   return (
     <div>
       <UserProvider>
+        <p>Hello</p>
         <UserDisplay/>
       </UserProvider>
       
